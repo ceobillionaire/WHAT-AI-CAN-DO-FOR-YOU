@@ -12,7 +12,7 @@ The following is constructed in accordance with the following three guidelines:
 2. *From generic to specific areas*; and
 3. *Focus on state-of-the-art*.
 
-But first ...
+But first:
 
 ## 0.0 Books
 
