@@ -14,7 +14,7 @@ The following is constructed in accordance with the following three guidelines:
 
 ## 0.0 Books
 
-**[0]** Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**_Deep learning_**" An MIT Press book. (2016). [The Deep Learning textbook](http://www.deeplearningbook.org) [[pdf]](https://github.com/HFTrader/DeepLearningBook/raw/master/DeepLearningBook.pdf) :+1:
+**[0]** Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. ["**_Deep learning_**"](http://www.deeplearningbook.org) An MIT Press book. (2016). :+1:
 
 "*Written by three experts in the field, Deep Learning is the only comprehensive book on the subject.*" -- **Elon Musk**, co-chair of OpenAI; co-founder and CEO of Tesla and SpaceX
 
