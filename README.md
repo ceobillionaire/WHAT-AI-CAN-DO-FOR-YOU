@@ -12,5 +12,8 @@ The following is constructed in accordance with the following three guidelines:
 2. *From generic to specific areas*; and
 3. *Focus on state-of-the-art*.
 
+## 0.0 Books
+
+**[0]** Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**_Deep learning_**" :star: An MIT Press book. (2015). http://www.deeplearningbook.org [[pdf]](https://github.com/HFTrader/DeepLearningBook/raw/master/DeepLearningBook.pdf) (Deep Learning Bible) 
 
 Because AI talent is *extremely scarce* right now and hiring the right AI leader can dramatically increases your odds of success, we're also creating a dedicated team of **Chief AI Officers** (CAIOs) on www.chiefaiofficers.com
