@@ -14,8 +14,8 @@ The following is constructed in accordance with the following three guidelines:
 
 ## 0.0 Books
 
-**[0]** Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**_Deep learning_**" An MIT Press book. (2016). [The Deep Learning textbook](http://www.deeplearningbook.org) [[pdf]](https://github.com/HFTrader/DeepLearningBook/raw/master/DeepLearningBook.pdf)
+**[0]** Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**_Deep learning_**" An MIT Press book. (2016). [The Deep Learning textbook](http://www.deeplearningbook.org) [[pdf]](https://github.com/HFTrader/DeepLearningBook/raw/master/DeepLearningBook.pdf) :+1:
 
-"*Written by three experts in the field, Deep Learning is the only comprehensive book on the subject.*" -- **Elon Musk**, co-chair of OpenAI; co-founder and CEO of Tesla and SpaceX :+1:
+"*Written by three experts in the field, Deep Learning is the only comprehensive book on the subject.*" -- **Elon Musk**, co-chair of OpenAI; co-founder and CEO of Tesla and SpaceX
 
 Because AI talent is *extremely scarce* right now and hiring the right AI leader can dramatically increases your odds of success, we're also creating a dedicated team of **Chief AI Officers** (CAIOs) on www.chiefaiofficers.com
