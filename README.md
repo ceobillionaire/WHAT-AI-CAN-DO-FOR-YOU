@@ -13,3 +13,4 @@ The following is constructed in accordance with the following three guidelines:
 3. *Focus on state-of-the-art*.
 
 
+Because AI talent is *extremely scarce* right now and hiring the right AI leader can dramatically increases your odds of success, we're also creating a dedicated team of **Chief AI Officers** (CAIOs) on www.chiefaiofficers.com
