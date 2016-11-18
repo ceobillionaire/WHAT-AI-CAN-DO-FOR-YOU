@@ -28,4 +28,8 @@ The following is constructed in accordance with the following three guidelines:
 
 ### 1.0 Deep Reinforcement Learning
 
-Because AI talent is *extremely scarce* right now and hiring the right AI leader can dramatically increases your odds of success, we're also creating a dedicated team of **Chief AI Officers** (CAIOs) on www.chiefaiofficers.com
+Because AI talent is *extremely scarce* right now...
+
+“*Last year, the cost of a top, world-class deep learning expert was about the same as a top NFL quarterback prospect. The cost of that talent is pretty remarkable.*” - Peter Lee, Vice President, Microsoft
+
+... and hiring the right AI leader can dramatically increases your odds of success, we're also creating a dedicated team of **Chief AI Officers** (CAIOs) on www.chiefaiofficers.com
