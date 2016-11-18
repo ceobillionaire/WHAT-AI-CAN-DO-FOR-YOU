@@ -24,6 +24,8 @@ The following is constructed in accordance with the following three guidelines:
 
 **[1]** Richard S. Sutton and Andrew G. Barto. ["**_Reinforcement Learning: An Introduction (2nd Edition)_**"](https://webdocs.cs.ualberta.ca/%7Esutton/book/bookdraft2016sep.pdf)
 
+## 1 | Industry: Robotics
 
+### 1.0 Deep Reinforcement Learning
 
 Because AI talent is *extremely scarce* right now and hiring the right AI leader can dramatically increases your odds of success, we're also creating a dedicated team of **Chief AI Officers** (CAIOs) on www.chiefaiofficers.com
