@@ -28,11 +28,17 @@ The following is constructed in accordance with the following three guidelines:
 
 ### 1.0 TensorFlow
 
-'TensorFlow is an Open Source Software Library for Machine Intelligence': [https://www.tensorflow.org](https://www.tensorflow.org)
+TensorFlow is an Open Source Software Library for Machine Intelligence: [https://www.tensorflow.org](https://www.tensorflow.org)
 
 **[0]** TensorFlow WhitePaper: ["**_TensorFlow: Large-scale machine learning on heterogeneous systems_**"](http://download.tensorflow.org/paper/whitepaper2015.pdf)
 
 **[1]** `CODE` Installation: [https://github.com/tensorflow/tensorflow](http://download.tensorflow.org/paper/whitepaper2015.pdf)
+
+**[2]** Tutorials: [https://www.tensorflow.org/versions/r0.11/tutorials/index.html](https://www.tensorflow.org/versions/r0.11/tutorials/index.html)
+
+### 1.1 OpenAI Gym
+
+The OpenAI Gym is a toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from walking to playing games like Pong or Go!
 
 ## 2 | Industry: Robotics
 
