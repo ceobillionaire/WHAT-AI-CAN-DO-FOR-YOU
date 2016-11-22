@@ -50,4 +50,4 @@ Because AI talent is *extremely scarce* right now...
 
 “*Last year, the cost of a top, world-class deep learning expert was about the same as a top NFL quarterback prospect. The cost of that talent is pretty remarkable.*” - Peter Lee, Vice President, Microsoft
 
-... We curate the extremely scarce top AI talent - **Chief AI Officers** (CAIOs) - worldwide for you on www.chiefaiofficers.com
+... We curate the extremely scarce top AI talent for you: [www.chiefaiofficers.com](www.chiefaiofficers.com)
