@@ -6,7 +6,7 @@
 
 If you are a *C-suite* newcomer to the AI, the first question you may have is "**_What AI can do now and how it relates to my strategies?_**" Since early deployment gives an advantage, here are the state-of-the-art AI papers and `CODE` for any industry.
 
-# Industry | What AI | Papers | Code
+# Industry | What AI | Papers | `CODE`
 
 The following is constructed in accordance with the following three guiding principles:
 
