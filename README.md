@@ -2,7 +2,7 @@
 
 "*A hundred years ago electricity transformed countless industries; 20 years ago the internet did, too. Artificial intelligence is about to do the same. To take advantage, companies need to understand what AI can do.*" - Andrew Ng | https://hbr.org/2016/11/hiring-your-first-chief-ai-officer
 
-If you are a *C-suite* newcomer to the AI, the first question you may have is "**_What AI can do now and how it relates to my strategies?_**". Here are the breakthrough AI papers and `CODE` for any industry.
+If you are a *C-suite* newcomer to the AI, the first question you may have is "**_What AI can do now and how it relates to my strategies?_**" Here are the breakthrough AI papers and `CODE` for any industry.
 
 # Industry | What AI | Papers | `CODE`
 
@@ -14,10 +14,10 @@ The following is constructed in accordance with the following three guiding prin
 
 Being able to deploy with the least possible delay is key.
 
-| Industry        | What AI           | Papers  | `CODE`   
-| -------------------------- |:--------------------------:| :--------------------------:| -----:|
+| Industry        | What AI           | Papers  | `CODE`  | 
+| -------------------------- |:--------------------------:|:--------------------------:|:-----:|
 | Robotics      | Deep Reinforcement Learning | ["**_Extending the OpenAI Gym for robotics_**"](https://arxiv.org/pdf/1608.05742v1.pdf) | ["**_Gym Gazebo_**"](https://github.com/erlerobot/gym-gazebo/) 
-| col 2 is      | centered      |   $12 |
+| Translation      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
 ## 0 | Deep Learning BOOKS
@@ -52,14 +52,6 @@ The OpenAI Gym is a toolkit for developing and comparing reinforcement learning 
 
 **[2]** `CODE` [How to create new environments](https://github.com/openai/gym/tree/master/gym/envs#how-to-create-new-environments-for-gym)
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-## 2 | Industry: Robotics
-
-### 2.0 Deep Reinforcement Learning
 
 Because AI talent is *extremely scarce* right now:
 
