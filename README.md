@@ -32,7 +32,7 @@ The following is constructed in accordance with the following three guidelines:
 
 **[0]** TensorFlow WhitePaper: ["**_TensorFlow: Large-scale machine learning on heterogeneous systems_**"](http://download.tensorflow.org/paper/whitepaper2015.pdf)
 
-**[1]** `CODE`[https://github.com/tensorflow/tensorflow](http://download.tensorflow.org/paper/whitepaper2015.pdf)
+**[1]** `CODE` Installation: [https://github.com/tensorflow/tensorflow](http://download.tensorflow.org/paper/whitepaper2015.pdf)
 
 ## 2 | Industry: Robotics
 
