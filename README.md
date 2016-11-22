@@ -48,8 +48,6 @@ The OpenAI Gym is a toolkit for developing and comparing reinforcement learning 
 
 **[2]** `CODE` [How to create new environments](https://github.com/openai/gym/tree/master/gym/envs#how-to-create-new-environments-for-gym)
 
-**[3]** Yan Duan, Xi Chen, Rein Houthooft, John Schulman, Pieter Abbeel. ["**_Benchmarking Deep Reinforcement Learning for Continuous Control_**"](https://arxiv.org/pdf/1604.06778v3.pdf)
-
 ## 2 | Industry: Robotics
 
 ### 2.0 Deep Reinforcement Learning
