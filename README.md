@@ -2,7 +2,7 @@
 
 "*A hundred years ago electricity transformed countless industries; 20 years ago the internet did, too. Artificial intelligence is about to do the same. To take advantage, companies need to understand what AI can do.*" - Andrew Ng | https://hbr.org/2016/11/hiring-your-first-chief-ai-officer
 
-**SOLVING Fortune 500's Toughest Challenges.** If you are a *C-suite* newcomer to the AI, the first question you may have is "**_What AI can do now and how it relates to my strategies?_**" Since early deployment gives an advantage, here are the state-of-the-art AI papers and `CODE` for any industry.
+If you are a *C-suite* newcomer to the AI, the first question you may have is "**_What AI can do now and how it relates to my strategies?_**" Since early deployment gives an advantage, here are the breakthrough AI papers and `CODE` for any industry.
 
 # Industry | What AI | Papers | `CODE`
 
@@ -16,11 +16,11 @@ Being able to deploy with the least possible delay is key.
 
 | Industry        | What AI           | Papers  | `CODE`   
 | -------------------------- |:--------------------------:| :--------------------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
+| Robotics      | Deep Reinforcement Learning | ["**_Extending the OpenAI Gym for robotics_**"](https://arxiv.org/pdf/1608.05742v1.pdf) | ["**_Gym Gazebo_**"](https://github.com/erlerobot/gym-gazebo/) 
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
-## 0 | Deep Learning Books
+## 0 | Deep Learning BOOKS
 
 ### 0.0 Deep Learning
 
@@ -32,7 +32,7 @@ Being able to deploy with the least possible delay is key.
 
 **[1]** Richard S. Sutton and Andrew G. Barto. ["**_Reinforcement Learning: An Introduction (2nd Edition)_**"](https://webdocs.cs.ualberta.ca/%7Esutton/book/bookdraft2016sep.pdf)
 
-## 1 | Deep Learning Tools
+## 1 | Deep Learning TOOLS
 
 ### 1.0 TensorFlow
 
