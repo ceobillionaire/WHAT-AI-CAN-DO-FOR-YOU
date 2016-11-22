@@ -30,7 +30,9 @@ The following is constructed in accordance with the following three guidelines:
 
 'TensorFlow is an Open Source Software Library for Machine Intelligence': [https://www.tensorflow.org](https://www.tensorflow.org)
 
-**[0]** 
+**[0]** TensorFlow WhitePaper: ["**_TensorFlow: Large-scale machine learning on heterogeneous systems_**"](http://download.tensorflow.org/paper/whitepaper2015.pdf)
+
+**[1]**
 
 ## 2 | Industry: Robotics
 
