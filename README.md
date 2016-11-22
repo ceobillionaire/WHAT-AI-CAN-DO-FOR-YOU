@@ -17,9 +17,15 @@ Being able to deploy with the least possible delay is key.
 | Industry        | What AI           | Papers  | `CODE`  | 
 | -------------------------- |:--------------------------:|:--------------------------:|:-----:|
 | Robotics      | Deep Reinforcement Learning | ["**_Extending the OpenAI Gym for robotics_**"](https://arxiv.org/pdf/1608.05742v1.pdf) | ["**_Gym Gazebo_**"](https://github.com/erlerobot/gym-gazebo/) 
-| Translation      | centered      |   $12 |
-| Art      | centered      |   $12 |
-| NLP(Natural Language Processing) | are neat      |    $1 |
+| Translation      |       |    |
+| Art      |       |    |
+| NLP(Natural Language Processing) |       |     |
+| Audio |       |     |
+| Image Caption |       |     |
+| Object Detection |       |     |
+| Visual Tracking |       |     |
+| Game |       |     |
+
 
 ## 0 | Deep Learning BOOKS
 
