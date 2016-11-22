@@ -18,7 +18,8 @@ Being able to deploy with the least possible delay is key.
 | -------------------------- |:--------------------------:|:--------------------------:|:-----:|
 | Robotics      | Deep Reinforcement Learning | ["**_Extending the OpenAI Gym for robotics_**"](https://arxiv.org/pdf/1608.05742v1.pdf) | ["**_Gym Gazebo_**"](https://github.com/erlerobot/gym-gazebo/) 
 | Translation      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Art      | centered      |   $12 |
+| NLP(Natural Language Processing) | are neat      |    $1 |
 
 ## 0 | Deep Learning BOOKS
 
