@@ -24,8 +24,10 @@ Being able to deploy with the least possible delay is key.
 | Image Caption |       |     |
 | Object Detection |       |     |
 | Visual Tracking |       |     |
+| Recommender Systems |       |     |
+| Bioinformatics |       |     |
+| Neural Network Chip |       |     |
 | Game |       |     |
-
 
 ## 0 | Deep Learning BOOKS
 
