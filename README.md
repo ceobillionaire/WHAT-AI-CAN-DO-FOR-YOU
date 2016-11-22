@@ -14,6 +14,12 @@ The following is constructed in accordance with the following three guiding prin
 
 Being able to deploy with the least possible delay is key.
 
+| Industry        | What AI           | Papers  | `CODE`   
+| -------------------------- |:--------------------------:| :--------------------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 ## 0 | Deep Learning Books
 
 ### 0.0 Deep Learning
@@ -45,6 +51,11 @@ The OpenAI Gym is a toolkit for developing and comparing reinforcement learning 
 **[1]** `CODE` Installation of the gym open-source library: [https://github.com/openai/gym](https://github.com/openai/gym)
 
 **[2]** `CODE` [How to create new environments](https://github.com/openai/gym/tree/master/gym/envs#how-to-create-new-environments-for-gym)
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
 
 ## 2 | Industry: Robotics
 
