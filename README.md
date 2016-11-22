@@ -12,7 +12,7 @@ The following is constructed in accordance with the following three guidelines:
 2. *From generic to specific areas*; and
 3. *Focus on state-of-the-art*.
 
-## 0 | Books
+## 0 | Deep Learning Books
 
 ### 0.0 Deep Learning
 
@@ -24,9 +24,17 @@ The following is constructed in accordance with the following three guidelines:
 
 **[1]** Richard S. Sutton and Andrew G. Barto. ["**_Reinforcement Learning: An Introduction (2nd Edition)_**"](https://webdocs.cs.ualberta.ca/%7Esutton/book/bookdraft2016sep.pdf)
 
-## 1 | Industry: Robotics
+## 1 | Deep Learning Tools
 
-### 1.0 Deep Reinforcement Learning
+### 1.0 TensorFlow
+
+'TensorFlow is an Open Source Software Library for Machine Intelligence': [https://www.tensorflow.org](https://www.tensorflow.org)
+
+**[0]** 
+
+## 2 | Industry: Robotics
+
+### 2.0 Deep Reinforcement Learning
 
 Because AI talent is *extremely scarce* right now...
 
