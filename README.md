@@ -40,7 +40,13 @@ TensorFlow is an Open Source Software Library for Machine Intelligence: [https:/
 
 ### 1.1 OpenAI Gym
 
-The OpenAI Gym is a toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from walking to playing games like Pong or Go!
+The OpenAI Gym is a toolkit for developing and comparing reinforcement learning algorithms [https://gym.openai.com](https://gym.openai.com).
+
+**[0]** `CODE` Installation: [https://gym.openai.com](https://gym.openai.com)
+
+**[1]** `CODE` Installation of the gym open-source library: [https://github.com/openai/gym](https://github.com/openai/gym)
+
+**[2]** `CODE` [How to create new environments](https://github.com/openai/gym/tree/master/gym/envs#how-to-create-new-environments-for-gym)
 
 ## 2 | Industry: Robotics
 
