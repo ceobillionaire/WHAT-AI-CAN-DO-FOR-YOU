@@ -34,7 +34,7 @@ Being able to deploy with the least possible delay is key.
 
 TensorFlow is an Open Source Software Library for Machine Intelligence: [https://www.tensorflow.org](https://www.tensorflow.org)
 
-**[0]** TensorFlow WhitePaper: ["**_WhitePaper - TensorFlow: Large-scale machine learning on heterogeneous systems_**"](http://download.tensorflow.org/paper/whitepaper2015.pdf)
+**[0]** Mart ́ın Abadi, Ashish Agarwal, Paul Barham, Eugene Brevdo, Zhifeng Chen, Craig Citro, Greg S. Corrado, Andy Davis, Jeffrey Dean, Matthieu Devin, Sanjay Ghemawat, Ian Goodfellow, Andrew Harp, Geoffrey Irving, Michael Isard, Yangqing Jia, Rafal Jozefowicz, Lukasz Kaiser, Manjunath Kudlur, Josh Levenberg, Dan Mane ́, Rajat Monga, Sherry Moore, Derek Murray, Chris Olah, Mike Schuster, Jonathon Shlens, Benoit Steiner, Ilya Sutskever, Kunal Talwar, Paul Tucker, Vincent Vanhoucke, Vijay Vasudevan, Fernanda Vie ́gas, Oriol Vinyals, Pete Warden, Martin Wattenberg, Martin Wicke, Yuan Yu, and Xiaoqiang Zheng. ["**_WhitePaper - TensorFlow: Large-scale machine learning on heterogeneous systems_**"](http://download.tensorflow.org/paper/whitepaper2015.pdf)
 
 **[1]** `CODE` Installation: [https://github.com/tensorflow/tensorflow](http://download.tensorflow.org/paper/whitepaper2015.pdf)
 
