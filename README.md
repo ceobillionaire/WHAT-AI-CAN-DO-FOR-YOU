@@ -18,7 +18,7 @@ Being able to deploy with the least possible delay is key.
 | -------------------------- |:--------------------------:|:--------------------------:|:-----:|
 | Robotics      | Deep Reinforcement Learning | ["**_Extending the OpenAI Gym for robotics_**"](https://arxiv.org/pdf/1608.05742v1.pdf) | ["**_Gym Gazebo_**"](https://github.com/erlerobot/gym-gazebo/) 
 | Translation      |       |    |
-| Word Embeddings      |       | ["**_Swivel_**"](https://github.com/tensorflow/models/tree/master/swivel) |
+| Word Embeddings      |       | ["**_Swivel: Improving Embeddings by Noticing What's Missing_**"](https://arxiv.org/pdf/1602.02215v1.pdf) | ["**_Swivel_**"](https://github.com/tensorflow/models/tree/master/swivel)
 | Art      |       |    |
 | NLP(Natural Language Processing) |       |     |
 | Audio |       |     |
