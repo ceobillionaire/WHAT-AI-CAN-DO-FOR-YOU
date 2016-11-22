@@ -34,7 +34,7 @@ Being able to deploy with the least possible delay is key.
 
 TensorFlow is an Open Source Software Library for Machine Intelligence: [https://www.tensorflow.org](https://www.tensorflow.org)
 
-**[0]** TensorFlow WhitePaper: ["**_TensorFlow: Large-scale machine learning on heterogeneous systems_**"](http://download.tensorflow.org/paper/whitepaper2015.pdf)
+**[0]** TensorFlow WhitePaper: ["**_WhitePaper - TensorFlow: Large-scale machine learning on heterogeneous systems_**"](http://download.tensorflow.org/paper/whitepaper2015.pdf)
 
 **[1]** `CODE` Installation: [https://github.com/tensorflow/tensorflow](http://download.tensorflow.org/paper/whitepaper2015.pdf)
 
@@ -42,7 +42,7 @@ TensorFlow is an Open Source Software Library for Machine Intelligence: [https:/
 
 The OpenAI Gym is a toolkit for developing and comparing reinforcement learning algorithms [https://gym.openai.com](https://gym.openai.com).
 
-**[0]** Greg Brockman and Vicki Cheung and Ludwig Pettersson and Jonas Schneider and John Schulman and Jie Tang and Wojciech Zaremba.  Installation: ["**_OpenAI Gym WhitePaper_**"](https://arxiv.org/pdf/1606.01540v1.pdf)
+**[0]** Greg Brockman and Vicki Cheung and Ludwig Pettersson and Jonas Schneider and John Schulman and Jie Tang and Wojciech Zaremba. ["**_OpenAI Gym WhitePaper_**"](https://arxiv.org/pdf/1606.01540v1.pdf)
 
 **[1]** `CODE` Installation of the gym open-source library: [https://github.com/openai/gym](https://github.com/openai/gym)
 
