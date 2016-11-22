@@ -18,6 +18,7 @@ Being able to deploy with the least possible delay is key.
 | -------------------------- |:--------------------------:|:--------------------------:|:-----:|
 | Robotics      | Deep Reinforcement Learning | ["**_Extending the OpenAI Gym for robotics_**"](https://arxiv.org/pdf/1608.05742v1.pdf) | ["**_Gym Gazebo_**"](https://github.com/erlerobot/gym-gazebo/) 
 | Translation      |       |    |
+| Word Embeddings      |       | ["**_Swivel_**"](https://github.com/tensorflow/models/tree/master/swivel) |
 | Art      |       |    |
 | NLP(Natural Language Processing) |       |     |
 | Audio |       |     |
@@ -28,6 +29,7 @@ Being able to deploy with the least possible delay is key.
 | Bioinformatics |       |     |
 | Neural Network Chip |       |     |
 | Game |       |     |
+
 
 ## 0 | Deep Learning BOOKS
 
