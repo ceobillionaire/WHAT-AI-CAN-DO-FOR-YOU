@@ -4,8 +4,6 @@
 
 If you are a *C-suite* newcomer to the AI, the first question you may have is "**_What AI can do now and how it relates to my strategies?_**" Here are the breakthrough AI papers and `CODE` for any industry.
 
-# Industry | What AI | Papers | `CODE`
-
 The following is constructed in accordance with the following three guiding principles:
 
 1. *Focus on state-of-the-art*;
@@ -31,7 +29,7 @@ Being able to deploy with the least possible delay is key.
 | Game |       |     |
 
 
-## 0 | Deep Learning BOOKS
+## Deep Learning BOOKS
 
 ### 0.0 Deep Learning
 
@@ -43,7 +41,7 @@ Being able to deploy with the least possible delay is key.
 
 **[1]** Richard S. Sutton and Andrew G. Barto. ["**_Reinforcement Learning: An Introduction (2nd Edition)_**"](https://webdocs.cs.ualberta.ca/%7Esutton/book/bookdraft2016sep.pdf)
 
-## 1 | Deep Learning TOOLS
+## Deep Learning TOOLS
 
 ### 1.0 TensorFlow
 
