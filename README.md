@@ -68,7 +68,7 @@ Universe: A software platform for measuring and training an AI's general intelli
 
 &nbsp;&nbsp;&nbsp;`CODE` [Universe Starter Agent](https://github.com/openai/universe-starter-agent)
 
-### 4.0 (WIP) Breakthrough AI Papers and CODE for Any Industry.
+### 4.0 Breakthrough AI Papers and CODE for Any Industry - WORK IN PROGRESS
 
 The following is constructed in accordance with the following three guiding principles:
 
