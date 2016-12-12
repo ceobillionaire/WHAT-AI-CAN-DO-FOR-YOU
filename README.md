@@ -1,5 +1,5 @@
 # WHAT-AI-CAN-DO-FOR-YOU
-"What AI can do now and how it relates to my strategies?" Here are the breakthrough AI papers and CODE for any industry.
+Here are the breakthrough AI papers and CODE for any industry.
 
 [![Alt text](https://img.youtube.com/vi/edFHBAIAmEM/0.jpg)](https://www.youtube.com/watch?v=edFHBAIAmEM)
 
