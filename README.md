@@ -9,7 +9,7 @@ If you are a newcomer to the AI, the first question you may have is "**_What AI 
 
 ## **LIVE** `CODE` ["**_All Code Implementations for NIPS 2016 papers_**"](https://www.reddit.com/r/MachineLearning/comments/5hwqeb/project_all_code_implementations_for_nips_2016/)
 
-&nbsp;&nbsp;&nbsp; ["**_NIPS Spotlight Videos_**"](https://nips.cc/Conferences/2016/SpotlightVideos)
+&nbsp;&nbsp;&nbsp; --> ["**_NIPS Spotlight Videos_**"](https://nips.cc/Conferences/2016/SpotlightVideos)
 
 ## Deep Learning BOOKS
 
