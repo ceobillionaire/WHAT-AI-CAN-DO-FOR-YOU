@@ -44,7 +44,7 @@ Policy Optimization_**"](http://people.eecs.berkeley.edu/~pabbeel/nips-tutorial-
 
 **[0]** `CODE` ["**_Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course._**"](https://github.com/dennybritz/reinforcement-learning)
 
-### 2.0 Data Science IPython Notebooks
+### 2.1 Data Science IPython Notebooks
 
 **[1]** `CODE` ["**_Data Science Python Notebooks: Deep learning (TensorFlow, Theano, Caffe), Scikit-learn, Kaggle, Big Data (Spark, Hadoop MapReduce, HDFS), Pandas, NumPy, SciPy..._**"](https://github.com/donnemartin/data-science-ipython-notebooks)
 
