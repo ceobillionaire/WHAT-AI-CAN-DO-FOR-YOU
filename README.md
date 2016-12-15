@@ -54,6 +54,8 @@ TensorFlow is an Open Source Software Library for Machine Intelligence: [https:/
 
 &nbsp;&nbsp;&nbsp;`CODE` [Installation](https://github.com/tensorflow/tensorflow)
 
+&nbsp;&nbsp;&nbsp;`CODE` [TensorFlow Tutorial and Examples for Beginners](https://github.com/aymericdamien/TensorFlow-Examples)
+
 &nbsp;&nbsp;&nbsp;`CODE` [Models built with TensorFlow](https://github.com/tensorflow/models)
 
 ### 3.1 OpenAI Gym
