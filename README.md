@@ -54,7 +54,7 @@ Policy Optimization_**"](http://people.eecs.berkeley.edu/~pabbeel/nips-tutorial-
 
 ## Deep Learning TOOLS
 
-![TensorFlow](tensorflow.png "TensorFlow")
+![TensorFlow](TensorFlow-v0.png "TensorFlow")
 
 ### 3.0 TensorFlow
 
