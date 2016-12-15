@@ -7,10 +7,6 @@ Here are the breakthrough AI papers and CODE for any industry.
 
 If you are a newcomer to the AI, the first question you may have is "**_What AI can do now and how it relates to my strategies?_**" Here are the breakthrough AI papers and `CODE` for any industry.
 
-## **LIVE** `CODE` ["**_All Code Implementations for NIPS 2016 papers_**"](https://www.reddit.com/r/MachineLearning/comments/5hwqeb/project_all_code_implementations_for_nips_2016/)
-
-&nbsp;&nbsp;&nbsp; --> ["**_NIPS Spotlight Videos_**"](https://nips.cc/Conferences/2016/SpotlightVideos)
-
 ## Deep Learning BOOKS
 
 ### 0.0 Deep Learning
@@ -37,6 +33,14 @@ Policy Optimization_**"](http://people.eecs.berkeley.edu/~pabbeel/nips-tutorial-
 **[0]** ["**_Deep Learning Papers Reading Roadmap_**"](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 
 &nbsp;&nbsp;&nbsp;`CODE` [Download All Papers](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap/blob/master/download.py)
+
+![NIPS](NIPS.png "NIPS")
+
+### 1.1 Implementations for NIPS 2016 Papers
+
+**[1]** `CODE` ["**_All Code Implementations for NIPS 2016 papers_**"](https://www.reddit.com/r/MachineLearning/comments/5hwqeb/project_all_code_implementations_for_nips_2016/)
+
+&nbsp;&nbsp;&nbsp; --> ["**_NIPS Spotlight Videos_**"](https://nips.cc/Conferences/2016/SpotlightVideos)
 
 ## Deep Learning TUTORIALS
 
