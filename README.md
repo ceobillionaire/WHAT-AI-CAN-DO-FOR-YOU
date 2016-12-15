@@ -34,7 +34,7 @@ Policy Optimization_**"](http://people.eecs.berkeley.edu/~pabbeel/nips-tutorial-
 
 &nbsp;&nbsp;&nbsp;`CODE` [Download All Papers](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap/blob/master/download.py)
 
-![NIPS](NIPS.png "NIPS")
+![NIPS](NIPS-v0.png "NIPS")
 
 ### 1.1 Implementations for NIPS 2016 Papers
 
