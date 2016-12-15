@@ -50,6 +50,8 @@ Policy Optimization_**"](http://people.eecs.berkeley.edu/~pabbeel/nips-tutorial-
 
 ## Deep Learning TOOLS
 
+![TensorFlow](tensorflow.png "TensorFlow")
+
 ### 3.0 TensorFlow
 
 TensorFlow is an Open Source Software Library for Machine Intelligence: [https://www.tensorflow.org](https://www.tensorflow.org)
