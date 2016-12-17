@@ -1,6 +1,6 @@
 # WHAT-AI-CAN-DO-FOR-YOU
 
-“The business plans of the next 10,000 startups are easy to forecast: Take X and add AI.” — Kevin Kelly
+“**_The business plans of the next 10,000 startups are easy to forecast: Take X and add AI._**” — Kevin Kelly
 
 Here are the breakthrough AI papers and CODE for any industry.
 
