@@ -1,9 +1,12 @@
 # WHAT-AI-CAN-DO-FOR-YOU
+
+“The business plans of the next 10,000 startups are easy to forecast: Take X and add AI.” — Kevin Kelly
+
 Here are the breakthrough AI papers and CODE for any industry.
 
 [![Alt text](https://img.youtube.com/vi/edFHBAIAmEM/0.jpg)](https://www.youtube.com/watch?v=edFHBAIAmEM)
 
-"*A hundred years ago electricity transformed countless industries; 20 years ago the internet did, too. Artificial intelligence is about to do the same. To take advantage, companies need to understand what AI can do.*" - Andrew Ng
+"*A hundred years ago electricity transformed countless industries; 20 years ago the internet did, too. Artificial intelligence is about to do the same. To take advantage, companies need to understand what AI can do.*" — Andrew Ng
 
 If you are a newcomer to the AI, the first question you may have is "**_What AI can do now and how it relates to my strategies?_**" Here are the breakthrough AI papers and `CODE` for any industry.
 
