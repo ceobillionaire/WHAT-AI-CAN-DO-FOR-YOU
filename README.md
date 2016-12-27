@@ -47,7 +47,7 @@ Policy Optimization_**"](http://people.eecs.berkeley.edu/~pabbeel/nips-tutorial-
 
 ### 1.2 arXiv + Github + Links + Discussion
 
-**[2]** `CODE` ["**_Implementations of Some of the Best arXiv Papers_**"](http://www.gitxiv.com)
+**[2]** arXiv + `CODE` ["**_Implementations of Some of the Best arXiv Papers_**"](http://www.gitxiv.com)
 
 ## Deep Learning TUTORIALS
 
