@@ -57,7 +57,7 @@ Policy Optimization_**"](http://people.eecs.berkeley.edu/~pabbeel/nips-tutorial-
 
 ### 2.1 Python Data Science Handbook 
 
-**[1]** `CODE` ["**_Python Data Science Handbook_**"](https://github.com/jakevdp/PythonDataScienceHandbook) by Jake Vanderplas.
+**[1]** `CODE` ["**_Jupyter Notebooks for the Python Data Science Handbook_**"](https://github.com/jakevdp/PythonDataScienceHandbook) by Jake Vanderplas.
 
 ### 2.2 Learn How to Build State of the Art Models 
 
