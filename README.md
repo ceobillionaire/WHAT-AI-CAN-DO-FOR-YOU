@@ -63,9 +63,13 @@ Policy Optimization_**"](http://people.eecs.berkeley.edu/~pabbeel/nips-tutorial-
 
 **[2]** Video + `CODE` ["**_Practical Deep Learning For Coders, Part 1_**"](http://course.fast.ai) by Jeremy Howard.
 
-### 2.3 Data Science IPython Notebooks
+### 2.3 NIPS 2016 Tutorial: Generative Adversarial Networks
 
-**[3]** `CODE` ["**_Data Science Python Notebooks: Deep learning (TensorFlow, Theano, Caffe), Scikit-learn, Kaggle, Big Data (Spark, Hadoop MapReduce, HDFS), Pandas, NumPy, SciPy..._**"](https://github.com/donnemartin/data-science-ipython-notebooks)
+**[3]** arXiv ["**_NIPS 2016 Tutorial: Generative Adversarial Networks_**"](https://arxiv.org/abs/1701.00160) by Ian Goodfellow.
+
+### 2.4 Data Science IPython Notebooks
+
+**[4]** `CODE` ["**_Data Science Python Notebooks: Deep learning (TensorFlow, Theano, Caffe), Scikit-learn, Kaggle, Big Data (Spark, Hadoop MapReduce, HDFS), Pandas, NumPy, SciPy..._**"](https://github.com/donnemartin/data-science-ipython-notebooks)
 
 ## Deep Learning TOOLS
 
@@ -122,6 +126,7 @@ Being able to deploy with the least possible delay is key.
 | Image Caption |       |     |
 | Object Detection |       |     |
 | Visual Tracking |       |     |
+| No-Limit Poker | DeepStack | DeepStack: Expert-Level Artificial Intelligence in No-Limit Poker [[arXiv](https://arxiv.org/abs/1701.01724)] |
 | Recommender Systems |       |     |
 | Bioinformatics |       |     |
 | Neural Network Chip |       |     |
