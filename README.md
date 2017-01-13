@@ -126,7 +126,7 @@ Being able to deploy with the least possible delay is key.
 | Image Caption |       |     |
 | Object Detection |       |     |
 | Visual Tracking |       |     |
-| No-Limit Poker | DeepStack | DeepStack: Expert-Level Artificial Intelligence in No-Limit Poker [[arXiv](https://arxiv.org/abs/1701.01724)] |
+| No-Limit Poker | Blend of Deep Learning and Classical AI | DeepStack: Expert-Level Artificial Intelligence in No-Limit Poker [[arXiv](https://arxiv.org/abs/1701.01724)] |
 | Recommender Systems |       |     |
 | Bioinformatics |       |     |
 | Neural Network Chip |       |     |
