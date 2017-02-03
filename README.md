@@ -124,6 +124,12 @@ DyNet is a neural network library designed to be efficient when run on either CP
 
 &nbsp;&nbsp;&nbsp;`CODE` [Installation](https://github.com/clab/dynet)
 
+### 3.4 Edward: A Python library for Probabilistic Modeling, Inference and Criticism
+
+[Edward](http://edwardlib.org) is a Python library for probabilistic modeling, inference and criticism fusing three fields: Bayesian statistics and machine learning, deep learning, and probabilistic programming. Runs on TensorFlow.
+
+&nbsp;&nbsp;&nbsp;`CODE` [Installation](https://github.com/blei-lab/edward)
+
 ## Breakthrough AI Papers and CODE for Any Industry - WORK IN PROGRESS
 
 The following is constructed in accordance with the following three guiding principles:
