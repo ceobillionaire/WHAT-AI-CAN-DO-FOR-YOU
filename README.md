@@ -128,6 +128,8 @@ DyNet is a neural network library designed to be efficient when run on either CP
 
 [Edward](http://edwardlib.org) is a Python library for probabilistic modeling, inference and criticism fusing three fields: Bayesian statistics and machine learning, deep learning, and probabilistic programming. Runs on TensorFlow.
 
+**[3]** Dustin Tran, Matthew D. Hoffman, Rif A. Saurous, Eugene Brevdo, Kevin Murphy, David M. Blei. ["**_Deep Probabilistic Programming_**"](https://arxiv.org/pdf/1701.03757v1.pdf)
+
 &nbsp;&nbsp;&nbsp;`CODE` [Installation](https://github.com/blei-lab/edward)
 
 ## Breakthrough AI Papers and CODE for Any Industry - WORK IN PROGRESS
