@@ -48,17 +48,23 @@ The Thirtieth Annual Conference on Neural Information Processing Systems (NIPS) 
 
 **[1]** Full Videos ["**_NIPS 2016 : 57 Episodes_**"](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016)
 
-**[1]** `CODE` ["**_All Code Implementations for NIPS 2016 papers_**"](https://www.reddit.com/r/MachineLearning/comments/5hwqeb/project_all_code_implementations_for_nips_2016/)
+**[2]** `CODE` ["**_All Code Implementations for NIPS 2016 papers_**"](https://www.reddit.com/r/MachineLearning/comments/5hwqeb/project_all_code_implementations_for_nips_2016/)
 
 ### 1.2 GitXiv : arXiv + Github + Links + Discussion
 
-**[2]** arXiv + `CODE` ["**_Implementations of Some of the Best arXiv Papers_**"](http://www.gitxiv.com)
+**[3]** arXiv + `CODE` ["**_Implementations of Some of the Best arXiv Papers_**"](http://www.gitxiv.com)
 
 ### 1.3 Wasserstein GAN
 
-**[3]** arXiv ["**_Wasserstein GAN_**"](https://arxiv.org/pdf/1701.07875v1.pdf)
+**[4]** arXiv ["**_Wasserstein GAN_**"](https://arxiv.org/pdf/1701.07875v1.pdf)
 
-**[4]** `CODE` ["**_Code accompanying the paper "Wasserstein GAN"_**"](https://github.com/martinarjovsky/WassersteinGAN)
+**[5]** `CODE` ["**_Code accompanying the paper "Wasserstein GAN"_**"](https://github.com/martinarjovsky/WassersteinGAN)
+
+### 1.4 The Predictron
+
+**[6]** arXiv ["**_The Predictron: End-To-End Learning and Planning_**"](https://arxiv.org/pdf/1612.08810v2.pdf)
+
+**[7]** `CODE` ["**_A TensorFlow implementation of "The Predictron: End-To-End Learning and Planning"_**"](https://github.com/zhongwen/predictron)
 
 ## Deep Learning TUTORIALS
 
