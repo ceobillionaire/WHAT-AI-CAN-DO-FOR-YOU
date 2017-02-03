@@ -123,7 +123,7 @@ Being able to deploy with the least possible delay is key.
 | Chemistry and Drug Discovery      | Deep Neural Network and Monte Carlo Tree Search (MCTS)     | ["**_Towards "AlphaChem": Chemical Synthesis Planning with Tree Search and Deep Neural Network Policies_**"](https://arxiv.org/pdf/1702.00020v1.pdf)   | ["**_DeepChem_**"](https://github.com/deepchem/deepchem)
 | Art      |       |    |
 | NLP(Natural Language Processing) |       |     |
-| Audio |       |     |
+| Audio | Deep Neural Network      | ["**_WaveNet: A Generative Model for Raw Audio_**"](https://arxiv.org/pdf/1609.03499v2.pdf)    | ["**_Tensorflow-Wavenet_**"](https://github.com/ibab/tensorflow-wavenet)
 | Image Caption |       |     |
 | Object Detection |       |     |
 | Visual Tracking |       |     |
