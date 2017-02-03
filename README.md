@@ -45,7 +45,7 @@ Policy Optimization_**"](http://people.eecs.berkeley.edu/~pabbeel/nips-tutorial-
 
 &nbsp;&nbsp;&nbsp; --> ["**_NIPS Spotlight Videos_**"](https://nips.cc/Conferences/2016/SpotlightVideos)
 
-### 1.2 arXiv + Github + Links + Discussion
+### 1.2 GitXiv : arXiv + Github + Links + Discussion
 
 **[2]** arXiv + `CODE` ["**_Implementations of Some of the Best arXiv Papers_**"](http://www.gitxiv.com)
 
