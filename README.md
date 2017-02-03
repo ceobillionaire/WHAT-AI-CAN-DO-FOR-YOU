@@ -119,7 +119,7 @@ Being able to deploy with the least possible delay is key.
 | -------------------------- |:--------------------------:|:--------------------------:|:-----:|
 | Robotics      | Deep Reinforcement Learning | ["**_Extending the OpenAI Gym for robotics_**"](https://arxiv.org/pdf/1608.05742v1.pdf) | ["**_Gym Gazebo_**"](https://github.com/erlerobot/gym-gazebo/) 
 | Translation      | Multilingual Neural Machine Translation (NMT)      | ["**_Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation_**"](https://arxiv.org/pdf/1611.04558v1.pdf)   | ["**_OpenNMT_**"](https://github.com/OpenNMT/OpenNMT)
-| Word Embeddings      |       | ["**_Swivel: Improving Embeddings by Noticing What's Missing_**"](https://arxiv.org/pdf/1602.02215v1.pdf) | ["**_Swivel_**"](https://github.com/tensorflow/models/tree/master/swivel)
+| Word Embeddings      | Approximate Factorization of the Point-Wise Mutual Information Matrix via Stochastic Gradient Descent      | ["**_Swivel: Improving Embeddings by Noticing What's Missing_**"](https://arxiv.org/pdf/1602.02215v1.pdf) | ["**_Swivel_**"](https://github.com/tensorflow/models/tree/master/swivel)
 | Chemistry and Drug Discovery      | Deep Neural Network and Monte Carlo Tree Search (MCTS)     | ["**_Towards "AlphaChem": Chemical Synthesis Planning with Tree Search and Deep Neural Network Policies_**"](https://arxiv.org/pdf/1702.00020v1.pdf)   | ["**_DeepChem_**"](https://github.com/deepchem/deepchem)
 | Art      |       |    |
 | NLP(Natural Language Processing) |       |     |
