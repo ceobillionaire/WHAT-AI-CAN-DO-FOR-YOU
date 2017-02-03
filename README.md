@@ -116,6 +116,14 @@ Universe: A software platform for measuring and training an AI's general intelli
 
 &nbsp;&nbsp;&nbsp;`CODE` [Universe Starter Agent](https://github.com/openai/universe-starter-agent)
 
+### 3.3 DyNet: The Dynamic Neural Network Toolkit
+
+DyNet is a neural network library designed to be efficient when run on either CPU or GPU. DyNet has been used to build state-of-the-art systems for [syntactic parsing](https://github.com/clab/lstm-parser), [machine translation](https://github.com/neubig/lamtram), [morphological inflection](https://github.com/mfaruqui/morph-trans).
+
+**[2]** Graham Neubig, Chris Dyer, Yoav Goldberg, Austin Matthews, Waleed Ammar, Antonios Anastasopoulos, Miguel Ballesteros, David Chiang, Daniel Clothiaux, Trevor Cohn, Kevin Duh, Manaal Faruqui, Cynthia Gan, Dan Garrette, Yangfeng Ji, Lingpeng Kong, Adhiguna Kuncoro, Gaurav Kumar, Chaitanya Malaviya, Paul Michel, Yusuke Oda, Matthew Richardson, Naomi Saphra, Swabha Swayamdipta, Pengcheng Yin. ["**_DyNet: The Dynamic Neural Network Toolkit_**"](https://arxiv.org/pdf/1701.03980v1.pdf)
+
+&nbsp;&nbsp;&nbsp;`CODE` [Installation](https://github.com/clab/dynet)
+
 ## Breakthrough AI Papers and CODE for Any Industry - WORK IN PROGRESS
 
 The following is constructed in accordance with the following three guiding principles:
