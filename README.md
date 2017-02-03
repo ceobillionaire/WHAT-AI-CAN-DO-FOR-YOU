@@ -138,6 +138,14 @@ DyNet is a neural network library designed to be efficient when run on either CP
 
 &nbsp;&nbsp;&nbsp;`CODE` [Installation](https://github.com/blei-lab/edward)
 
+### 3.5 DeepMind Lab: A customisable 3D platform for agent-based AI research
+
+DeepMind Lab provides a suite of challenging 3D navigation and puzzle-solving tasks for learning agents. Its primary purpose is to act as a testbed for research in artificial intelligence, especially deep reinforcement learning.
+
+**[4]** Charles Beattie, Joel Z. Leibo, Denis Teplyashin, Tom Ward, Marcus Wainwright, Heinrich Küttler, Andrew Lefrancq, Simon Green, Víctor Valdés, Amir Sadik, Julian Schrittwieser, Keith Anderson, Sarah York, Max Cant, Adam Cain, Adrian Bolton, Stephen Gaffney, Helen King, Demis Hassabis, Shane Legg, Stig Petersen. ["**_DeepMind Lab_**"](https://arxiv.org/pdf/1612.03801v2.pdf)
+
+&nbsp;&nbsp;&nbsp;`CODE` [Installation of the DeepMind Lab](https://github.com/deepmind/lab)
+
 ## Breakthrough AI Papers and CODE for Any Industry - WORK IN PROGRESS
 
 The following is constructed in accordance with the following three guiding principles:
