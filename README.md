@@ -153,7 +153,7 @@ Being able to deploy with the least possible delay is key.
 | Audio | Deep Neural Network      | ["**_WaveNet: A Generative Model for Raw Audio_**"](https://arxiv.org/pdf/1609.03499v2.pdf)    | ["**_Tensorflow-Wavenet_**"](https://github.com/ibab/tensorflow-wavenet)
 | Image Caption |       |     |
 | Object Detection |       |     |
-| Full Resolution Image Compression  | Recurrent Neural Networks      | ["**_Full Resolution Image Compression with Recurrent Neural Networks_**"](https://arxiv.org/pdf/1608.05148v1.pdf)    | ["**_Image Compression_**"](https://github.com/tensorflow/models/tree/master/compression)
+| Full Resolution Image Compression  | Recurrent Neural Networks      | ["**_Full Resolution Image Compression with Recurrent Neural Networks_**"](https://arxiv.org/pdf/1608.05148v1.pdf)    | ["**_Compression_**"](https://github.com/tensorflow/models/tree/master/compression)
 | Visual Tracking |       |     |
 | No-Limit Poker | Blend of Deep Learning and Classical AI | DeepStack: Expert-Level Artificial Intelligence in No-Limit Poker [[arXiv](https://arxiv.org/abs/1701.01724)] |
 | Recommender Systems |       |     |
