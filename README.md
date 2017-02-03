@@ -39,11 +39,16 @@ Policy Optimization_**"](http://people.eecs.berkeley.edu/~pabbeel/nips-tutorial-
 
 ![NIPS](NIPS-v0.png "NIPS")
 
-### 1.1 Implementations for NIPS 2016 Papers
+### 1.1 Neural Information Processing Systems Conference - NIPS 2016
+
+Dec 05–8, 2016
+Centre Convencions Internacional Barcelona, Barcelona SPAIN
+
+The Thirtieth Annual Conference on Neural Information Processing Systems (NIPS) is a multi-track machine learning and computational neuroscience conference that includes invited talks, demonstrations, symposia and oral and poster presentations of refereed papers. Following the conference, there are workshops which provide a less formal setting.
+
+**[1]** Full Videos ["**_NIPS 2016 : 57 Episodes_**"](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016)
 
 **[1]** `CODE` ["**_All Code Implementations for NIPS 2016 papers_**"](https://www.reddit.com/r/MachineLearning/comments/5hwqeb/project_all_code_implementations_for_nips_2016/)
-
-&nbsp;&nbsp;&nbsp; --> ["**_NIPS Spotlight Videos_**"](https://nips.cc/Conferences/2016/SpotlightVideos)
 
 ### 1.2 GitXiv : arXiv + Github + Links + Discussion
 
