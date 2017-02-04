@@ -78,6 +78,12 @@ The Thirtieth Annual Conference on Neural Information Processing Systems (NIPS) 
 
 **[10]** arXiv ["**_Neural Architecture Search with Reinforcement Learning_**"](https://openreview.net/pdf?id=r1Ue8Hcxg)
 
+### 1.7 Neural Architecture Search with RL
+
+Recursion is the key to true generalisation.
+
+**[11]** arXiv ["**_Making Neural Programming Architectures Generalize via Recursion_**"](https://openreview.net/pdf?id=BkbY4psgg)
+
 ## Deep Learning TUTORIALS
 
 ### 2.0 Implementation of Reinforcement Learning Algorithms
