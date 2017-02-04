@@ -78,7 +78,7 @@ The Thirtieth Annual Conference on Neural Information Processing Systems (NIPS) 
 
 **[10]** arXiv ["**_Neural Architecture Search with Reinforcement Learning_**"](https://openreview.net/pdf?id=r1Ue8Hcxg)
 
-### 1.7 Neural Architecture Search with RL
+### 1.7 Superior Generalizability and Interpretability
 
 Recursion is the key to true generalisation.
 
