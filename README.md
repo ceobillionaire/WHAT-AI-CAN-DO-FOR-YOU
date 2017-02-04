@@ -68,6 +68,12 @@ The Thirtieth Annual Conference on Neural Information Processing Systems (NIPS) 
 
 **[7]** `CODE` ["**_A TensorFlow implementation of "The Predictron: End-To-End Learning and Planning"_**"](https://github.com/zhongwen/predictron)
 
+### 1.5 Meta-RL
+
+**[8]** arXiv ["**_Learning to reinforcement learn_**"](https://arxiv.org/pdf/1611.05763v3.pdf)
+
+**[9]** `CODE` ["**_Meta-RL"_**"](https://github.com/awjuliani/Meta-RL)
+
 ## Deep Learning TUTORIALS
 
 ### 2.0 Implementation of Reinforcement Learning Algorithms
