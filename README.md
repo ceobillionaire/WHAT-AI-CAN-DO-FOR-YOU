@@ -74,6 +74,10 @@ The Thirtieth Annual Conference on Neural Information Processing Systems (NIPS) 
 
 **[9]** `CODE` ["**_Meta-RL"_**"](https://github.com/awjuliani/Meta-RL)
 
+### 1.6 Neural Architecture Search with RL
+
+**[10]** arXiv ["**_Neural Architecture Search with Reinforcement Learning_**"](https://openreview.net/pdf?id=r1Ue8Hcxg)
+
 ## Deep Learning TUTORIALS
 
 ### 2.0 Implementation of Reinforcement Learning Algorithms
