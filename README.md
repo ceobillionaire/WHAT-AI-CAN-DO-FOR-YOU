@@ -174,7 +174,7 @@ Being able to deploy with the least possible delay is key.
 | NLP(Natural Language Processing) |       |     |
 | Audio | Deep Neural Network      | ["**_WaveNet: A Generative Model for Raw Audio_**"](https://arxiv.org/pdf/1609.03499v2.pdf)    | ["**_Tensorflow-Wavenet_**"](https://github.com/ibab/tensorflow-wavenet)
 | Image Caption |       |     |
-| Object Detection |       |     |
+| Image Recognition | Very Deep Convolutional Networks      | ["**_Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning_**"](https://arxiv.org/pdf/1602.07261v2.pdf)    | ["**_Keras-InceptionV4n_**"](https://github.com/kentsommer/keras-inceptionV4)
 | Full Resolution Image Compression  | Recurrent Neural Networks      | ["**_Full Resolution Image Compression with Recurrent Neural Networks_**"](https://arxiv.org/pdf/1608.05148v1.pdf)    | ["**_Compression_**"](https://github.com/tensorflow/models/tree/master/compression)
 | Visual Tracking |       |     |
 | No-Limit Poker | Blend of Deep Learning and Classical AI | DeepStack: Expert-Level Artificial Intelligence in No-Limit Poker [[arXiv](https://arxiv.org/abs/1701.01724)] |
