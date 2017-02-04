@@ -29,6 +29,8 @@ Policy Optimization_**"](http://people.eecs.berkeley.edu/~pabbeel/nips-tutorial-
 
 &nbsp;&nbsp;&nbsp;`CODE` [Learning to Learn in TensorFlow](https://github.com/deepmind/learning-to-learn)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; arXiv [Learning to Learn for Global Optimization of Black Box Functions](https://arxiv.org/pdf/1611.03824v3.pdf)
+
 ## Deep Learning PAPERS
 
 ### 1.0 Papers Reading Roadmap
