@@ -84,6 +84,10 @@ Recursion is the key to true generalisation.
 
 **[11]** arXiv ["**_Making Neural Programming Architectures Generalize via Recursion_**"](https://openreview.net/pdf?id=BkbY4psgg)
 
+### 1.8 Seq2seq RL GANs for Dialogue Generation
+
+**[12]** arXiv ["**_Adversarial Learning for Neural Dialogue Generation_**"](https://arxiv.org/pdf/1701.06547.pdf)
+
 ## Deep Learning TUTORIALS
 
 ### 2.0 Implementation of Reinforcement Learning Algorithms
