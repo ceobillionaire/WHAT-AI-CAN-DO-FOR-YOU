@@ -94,6 +94,12 @@ For artificial general intelligence (AGI) it would be efficient if multiple user
 
 **[13]** arXiv ["**_PathNet: Evolution Channels Gradient Descent in Super Neural Networks_**"](https://arxiv.org/pdf/1701.08734.pdf)
 
+### 1.10 Outrageously Large Neural Networks
+
+... achieving greater than 1000x improvements in model capacity with only minor losses in computational efficiency on modern GPU clusters.
+
+**[14]** arXiv ["**_Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer_**"](https://arxiv.org/pdf/1701.06538.pdf)
+
 ## Deep Learning TUTORIALS
 
 ### 2.0 Implementation of Reinforcement Learning Algorithms
