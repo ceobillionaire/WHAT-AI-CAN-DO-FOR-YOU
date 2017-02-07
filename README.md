@@ -88,6 +88,12 @@ Recursion is the key to true generalisation.
 
 **[12]** arXiv ["**_Adversarial Learning for Neural Dialogue Generation_**"](https://arxiv.org/pdf/1701.06547.pdf)
 
+### 1.9 DeepMind’s PathNet: Modular Deep Learning Architecture for AGI
+
+For artificial general intelligence (AGI) it would be efficient if multiple users trained the same giant neural network, permitting parameter reuse, without catastrophic forgetting. PathNet is a first step in this direction. It is a neural network algorithm that uses agents embedded in the neural network whose task is to discover which parts of the network to re-use for new tasks
+
+**[13]** arXiv ["**_PathNet: Evolution Channels Gradient Descent in Super Neural Networks_**"](https://arxiv.org/pdf/1701.08734.pdf)
+
 ## Deep Learning TUTORIALS
 
 ### 2.0 Implementation of Reinforcement Learning Algorithms
