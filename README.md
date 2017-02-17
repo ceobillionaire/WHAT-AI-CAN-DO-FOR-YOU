@@ -100,27 +100,37 @@ For artificial general intelligence (AGI) it would be efficient if multiple user
 
 **[14]** arXiv ["**_Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer_**"](https://arxiv.org/pdf/1701.06538.pdf)
 
-## Deep Learning TUTORIALS
+## Deep Learning LECTURES and TUTORIALS
 
 ### 2.0 Implementation of Reinforcement Learning Algorithms
 
 **[0]** `CODE` ["**_Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course._**"](https://github.com/dennybritz/reinforcement-learning)
 
-### 2.1 Python Data Science Handbook 
+### 2.1  Deep Natural Language Processing 
 
-**[1]** `CODE` ["**_Jupyter Notebooks for the Python Data Science Handbook_**"](https://github.com/jakevdp/PythonDataScienceHandbook) by Jake Vanderplas.
+**[1]** Video + `CODE` + Slides ["**_Deep Natural Language Processing_**"](https://github.com/oxford-cs-deepnlp-2017/lectures) course offered in Hilary Term 2017 at the University of Oxford.
 
-### 2.2 Learn How to Build State of the Art Models 
+### 2.2 TensorFlow Dev Summit 2017 
 
-**[2]** Video + `CODE` ["**_Practical Deep Learning For Coders, Part 1_**"](http://course.fast.ai) by Jeremy Howard.
+Join the TensorFlow team and machine learning experts from around the world for a full day of technical talks, demos, and conversations.
 
-### 2.3 NIPS 2016 Tutorial: Generative Adversarial Networks
+**[2]** Video + `CODE` ["**_TensorFlow Dev Summit 2017_**"](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKGc_NBoIhTn2Qhraji53cv) by Google Developers.
 
-**[3]** arXiv ["**_NIPS 2016 Tutorial: Generative Adversarial Networks_**"](https://arxiv.org/abs/1701.00160) by Ian Goodfellow.
+### 2.3 Python Data Science Handbook 
 
-### 2.4 Data Science IPython Notebooks
+**[3]** `CODE` ["**_Jupyter Notebooks for the Python Data Science Handbook_**"](https://github.com/jakevdp/PythonDataScienceHandbook) by Jake Vanderplas.
 
-**[4]** `CODE` ["**_Data Science Python Notebooks: Deep learning (TensorFlow, Theano, Caffe), Scikit-learn, Kaggle, Big Data (Spark, Hadoop MapReduce, HDFS), Pandas, NumPy, SciPy..._**"](https://github.com/donnemartin/data-science-ipython-notebooks)
+### 2.4 Learn How to Build State of the Art Models 
+
+**[4]** Video + `CODE` ["**_Practical Deep Learning For Coders, Part 1_**"](http://course.fast.ai) by Jeremy Howard.
+
+### 2.5 NIPS 2016 Tutorial: Generative Adversarial Networks
+
+**[5]** arXiv ["**_NIPS 2016 Tutorial: Generative Adversarial Networks_**"](https://arxiv.org/abs/1701.00160) by Ian Goodfellow.
+
+### 2.6 Data Science IPython Notebooks
+
+**[6]** `CODE` ["**_Data Science Python Notebooks: Deep learning (TensorFlow, Theano, Caffe), Scikit-learn, Kaggle, Big Data (Spark, Hadoop MapReduce, HDFS), Pandas, NumPy, SciPy..._**"](https://github.com/donnemartin/data-science-ipython-notebooks)
 
 ## Deep Learning TOOLS
 
