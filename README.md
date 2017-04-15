@@ -31,6 +31,10 @@ Policy Optimization_**"](http://people.eecs.berkeley.edu/~pabbeel/nips-tutorial-
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; arXiv [Learning to Learn for Global Optimization of Black Box Functions](https://arxiv.org/pdf/1611.03824v3.pdf)
 
+### 0.2 Computer Programming
+
+**[4]** Antti Laaksonen. ["**_Competitive Programmer's Handbook_**"](https://cses.fi/book.pdf)
+
 ## Deep Learning PAPERS
 
 ### 1.0 Papers Reading Roadmap
