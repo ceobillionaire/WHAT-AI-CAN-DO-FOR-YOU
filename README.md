@@ -35,7 +35,7 @@ Policy Optimization_**"](http://people.eecs.berkeley.edu/~pabbeel/nips-tutorial-
 
 **[4]** Antti Laaksonen. ["**_Competitive Programmer's Handbook_**"](https://cses.fi/book.pdf)
 
-## Deep Learning PAPERS
+## Notable Deep Learning PAPERS
 
 ### 1.0 Papers Reading Roadmap
 
@@ -103,6 +103,36 @@ For artificial general intelligence (AGI) it would be efficient if multiple user
 ... achieving greater than 1000x improvements in model capacity with only minor losses in computational efficiency on modern GPU clusters.
 
 **[14]** arXiv ["**_Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer_**"](https://arxiv.org/pdf/1701.06538.pdf)
+
+### 1.11 Emergence of Locomotion Behaviours in Rich Environments
+
+**[15]** arXiv ["**_Emergence of Locomotion Behaviours in Rich Environments_**"](https://arxiv.org/pdf/1707.02286.pdf)
+
+### 1.12 Learning human behaviors from motion capture by adversarial imitation
+
+**[16]** arXiv ["**_Learning human behaviors from motion capture by adversarial imitation_**"](https://arxiv.org/pdf/1707.02201.pdf)
+
+### 1.13 Hindsight Experience Replay
+
+**[17]** arXiv ["**_Hindsight Experience Replay_**"](https://arxiv.org/pdf/1707.01495.pdf)
+
+### 1.14 Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks
+
+**[18]** arXiv ["**_Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks_**"](https://arxiv.org/pdf/1707.01836.pdf)
+
+### 1.15 End-to-End Learning of Semantic Grasping
+
+**[19]** arXiv ["**_End-to-End Learning of Semantic Grasping_**"](https://arxiv.org/pdf/1707.01932.pdf)
+
+### 1.16 Programmable Agents
+
+**[20]** arXiv ["**_Programmable Agents_**"](https://arxiv.org/pdf/1706.06383.pdf)
+
+### 1.17 One Model To Learn Them All
+
+**[21]** arXiv ["**_One Model To Learn Them All_**"](https://arxiv.org/pdf/1706.05137.pdf)
+
+**[22]** `CODE` ["**_T2T: Tensor2Tensor Transformers"_**"](https://github.com/tensorflow/tensor2tensor)
 
 ## Deep Learning LECTURES and TUTORIALS
 
