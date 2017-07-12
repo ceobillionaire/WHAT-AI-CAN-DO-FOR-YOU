@@ -20,7 +20,7 @@ If you are a newcomer to the AI, the first question you may have is "**_What AI 
 
 ### 0.1 Deep Reinforcement Learning
 
-**[1]** Richard S. Sutton and Andrew G. Barto. ["**_Reinforcement Learning: An Introduction (2nd Edition)_**"](https://webdocs.cs.ualberta.ca/%7Esutton/book/bookdraft2016sep.pdf)
+**[1]** Richard S. Sutton and Andrew G. Barto. ["**_Reinforcement Learning: An Introduction (2nd Edition)_**"](http://incompleteideas.net/sutton/book/bookdraft2017june19.pdf)
 
 **[2]** Pieter Abbeel and John Schulman | Open AI / Berkeley AI Research Lab. ["**_Deep Reinforcement Learning through
 Policy Optimization_**"](http://people.eecs.berkeley.edu/~pabbeel/nips-tutorial-policy-optimization-Schulman-Abbeel.pdf)
