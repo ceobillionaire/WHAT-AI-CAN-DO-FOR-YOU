@@ -136,6 +136,10 @@ Join the TensorFlow team and machine learning experts from around the world for 
 
 **[6]** `CODE` ["**_Data Science Python Notebooks: Deep learning (TensorFlow, Theano, Caffe), Scikit-learn, Kaggle, Big Data (Spark, Hadoop MapReduce, HDFS), Pandas, NumPy, SciPy..._**"](https://github.com/donnemartin/data-science-ipython-notebooks)
 
+### 2.7 AI Playbook
+
+**[7]** `TUTORIALS & CODE` ["**_AI Playbook_**"](http://aiplaybook.a16z.com)
+
 ## Deep Learning TOOLS
 
 ![TensorFlow](TensorFlow-v0.png "TensorFlow")
